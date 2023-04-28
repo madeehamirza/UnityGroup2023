@@ -1,0 +1,13 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+Unity/CornMaze/[Ll]ibrary/
+Unity/CornMaze/[Tt]emp/
+Unity/CornMaze/[Oo]bj/
+Unity/CornMaze/[Bb]uild/
+Unity/CornMaze/[Bb]uilds/
+Unity/CornMaze/[Ll]ogs/
+Unity/CornMaze/[Uu]ser[Ss]ettings/
+
+
