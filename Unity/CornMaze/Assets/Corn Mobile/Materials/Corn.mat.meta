@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 8b36a43724afb094ba82fbc4b840f0c9
-timeCreated: 1561154063
-licenseType: Store
+labels:
+- Advanced
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
